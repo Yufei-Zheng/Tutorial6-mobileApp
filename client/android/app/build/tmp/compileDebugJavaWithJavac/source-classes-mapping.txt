@@ -1,0 +1,14 @@
+com/president/MainActivity.java
+ com.president.MainActivity
+com/president/BuildConfig.java
+ com.president.BuildConfig
+com/president/ReactNativeFlipper.java
+ com.president.ReactNativeFlipper
+ com.president.ReactNativeFlipper$1
+ com.president.ReactNativeFlipper$2
+ com.president.ReactNativeFlipper$2$1
+com/president/MainApplication.java
+ com.president.MainApplication
+ com.president.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
