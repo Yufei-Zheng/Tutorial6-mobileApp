@@ -34,6 +34,7 @@ Please <u>don't execute npm install</u>, all dependencies are here in files. Tha
 
 ```
 cd client
+source ~/.bash_profile
 npx react-native run-android
 ```
 
