@@ -1,1 +1,2 @@
 client/android/.temp/PackageOperation01/emulator-darwin_x64-7820599.zip.asdownloa filter=lfs diff=lfs merge=lfs -text
+client/android/.temp/PackageOperation01/emulator-darwin_x64-7820599.zip.asdownload filter=lfs diff=lfs merge=lfs -text
