@@ -30,10 +30,14 @@ screen npm start
 
 ### In the client side
 
-Please <u>don't execute npm install</u>, all dependencies are here in files. Thanks :)
-
 ```
 cd client
+```
+Please <u>don't execute npm install</u>, all dependencies are here in files. Thanks :)
+
+There are two places that need to be changed to your ip address ("http:// your ip address :5000/graphql"). One is in <u>App.js</u> and the other is in <u>AppSystem.js</u>.
+
+```
 source ~/.bash_profile
 npx react-native run-android
 ```
